@@ -55,11 +55,12 @@ class Productpage extends Component {
 										</div> 
 									</div>
 
+									
 
 									<div className="row justify-content-center text-center product-holder h-100">
 										<div className={`col-sm-12 col-md-6 my-auto`}>
 											<div className="starting-price">
-												{`Starting at ${StartPrice}`}
+												{`${StartPrice}`}
 											</div>
 											<div className="monthly-price">
 												{PriceRange}

@@ -24,12 +24,7 @@ class Navbar extends Component {
                             <span className="line line-bottom"></span>
                         </div>
                     </li>
-                    <li className="nav-item">
-                        <a href="index.html" className="nav-link nav-link-apple"></a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#" className="nav-link nav-link-bag"></a>
-                    </li>
+           
                    
                 </ul>
                 {/* <!-- /.nav-list nav-list-mobile -->  */}
@@ -37,40 +32,30 @@ class Navbar extends Component {
                     <li className="nav-item search-hiden">
                       
                         <input className="nav-link nav-link-searchbar" type="text" 
-                            placeholder="&#xF002; Search apple.com" 
+                            placeholder="&#xF002; " 
                             style={{fontFamily:"Arial, FontAwesome"}} />
                       
                     </li>
-                    <li className="nav-item nav-item-hidden">
-                        <a href="/" className="nav-link nav-link-apple"></a>
+                  
+                    <li className="nav-item">
+                        <a href="mac" className="nav-link">Kurumsal</a>
                     </li>
                     <li className="nav-item">
-                        <a href="mac" className="nav-link">Mac</a>
+                        <a href="" className="nav-link">Psikoteknik</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">iPad</a>
+                        <a href="iphone" className="nav-link">Eğitimler & Hizmetler</a>
                     </li>
                     <li className="nav-item">
-                        <a href="iphone" className="nav-link">iPhone</a>
+                        <a href="referanslar" className="nav-link">Referanslar</a>
                     </li>
                     <li className="nav-item">
-                        <a href="watch" className="nav-link">Watch</a>
+                        <a href="" className="nav-link">İletişim</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#" className="nav-link">TV</a>
+                        <a href="" className="nav-link nav-link-search"></a>
                     </li>
-                    <li className="nav-item">
-                        <a href="#" className="nav-link">Music</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#" className="nav-link">Support</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#" className="nav-link nav-link-search"></a>
-                    </li>
-                    <li className="nav-item">
-                            <a href="#" className="nav-link nav-link-bag"></a>
-                    </li>
+    
                   
                 </ul> 
                     

@@ -97,7 +97,7 @@ img {
 	padding-right: 20px;
 }
 .links-wrapper ul li a {
-	color: #06c;
+	color: black;
 	text-decoration: none;
 	font-size: 17px;
 }
@@ -129,6 +129,7 @@ img {
 } 
 .description-wrapper {
 	font-size: 26px;
+
 	padding: 10px 0;
 }
 .price-wrapper{
@@ -232,13 +233,14 @@ img {
 	line-height: 1.2em;	
   }
   .starting-price {
-	  font-size: 20px;
-	  font-weight: 600;
+	  font-size: 15px;
+	  
   }
   .product-holder {
 	  margin: 100px 0;
   }
   .product-details {
+	font-size: 15px;
 	  padding: 50px 0;
   }
  .large{
@@ -247,3 +249,24 @@ img {
   .inch{
 	  font-size: 17px;
   }
+ /* Other styles remain unchanged */
+
+@media (max-width: 768px) {
+    .product-holder {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-image {
+        order: 2; /* Ensures the image is between the description and details on mobile */
+    }
+
+    .description-wrapper {
+        order: 1; /* Ensure the description comes first */
+    }
+
+    .product-details {
+        order: 3; /* Ensure the details come last */
+    }
+}

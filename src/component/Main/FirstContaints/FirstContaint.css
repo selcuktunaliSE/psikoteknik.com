@@ -1,5 +1,5 @@
 .first-hightlight-wrapper{
-    background-image: url(../../../images/home/ipodPronew-sm.jpg);
+    background-image: url("../../../images/home/ipodPronew-sm.jpg");
     height: 580px;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -10,6 +10,10 @@
     color: #fff;	
     margin-bottom: 10px;
 }
+.center-content {
+    margin-top: 2%;
+    /* Adjust this value based on your layout */
+  }
 .ipod-caption {
     color: #86868b;
     font-size: 12px;
@@ -18,11 +22,39 @@
     letter-spacing: -.01em;		
     padding-top: 310px;
 }
+.first-highlight-wrapper .description-wrapper {
+    white-space: pre-line !important; /* Use !important cautiously */
+}
+
+.contact-button {
+    display: inline-block;
+    background-image: linear-gradient(45deg, #4D77FF, #7A88FF); /* Gradient background */
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px; /* Adjust padding for better sizing */
+    border-radius: 25px; /* Rounded edges for a modern look */
+    font-weight: bold; /* Make the text bold */
+    letter-spacing: 0.5px; /* Slight spacing between letters */
+    transition: all 0.2s ease-in-out; /* Smooth transition for hover effects */
+
+    /* Box shadow for depth, adjust as needed */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none; /* Remove any default border */
+}
+
+.contact-button:hover, .contact-button:focus {
+    background-image: linear-gradient(45deg, #576BFF, #859BFF); /* Slightly lighter gradient on hover */
+    color: white;
+    text-decoration: none;
+    transform: translateY(-2px); /* Slight lift effect */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover for depth */
+}
+
 
 /* Meadia Query */
 @media (min-width: 768px) {
     .first-hightlight-wrapper {
-        background-image: url("../../../images/home/ipodPronew.jpg");
+        background-image: url("../../../images/home/pexels-adam-hilles-5404394\ \(1\).jpg");
         min-height: 692px;
     }	
     .ipod-caption {

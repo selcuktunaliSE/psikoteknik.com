@@ -30,7 +30,7 @@ class Mac extends Component{
 						<div className="row justify-content-center text-center">
 							<div className="col-12">
 								<div className="title-wraper large">
-								Which Mac notebook is right for you?
+								Eğitimler & Hizmetler
 								</div>
 								{/* <div className="brief-description">
 									The best for the brightest

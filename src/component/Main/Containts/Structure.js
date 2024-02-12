@@ -1,7 +1,8 @@
+
 import React, {Component } from 'react';
 class Structure extends Component {
   
-    render() { 
+	render() { 
         const {alert, title ,description,price,titleColor,colorClass,priceColor} = this.props;
         return (  
             <div className="container">
@@ -19,14 +20,8 @@ class Structure extends Component {
 			<div className={`price-wrapper ${priceColor}`}>
 				{price}
 			</div>
-
-			<div className="links-wrapper">
-				<ul>
-					<li><a href="#top">Learn more </a></li>
-					<li><a href="#top">Buy</a></li>
-				</ul> 
-			</div>
 		</div>			
+		
         );
     }
 }

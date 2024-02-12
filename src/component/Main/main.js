@@ -18,7 +18,6 @@ class Main extends Component {
 
         <FirstContaint/>
         <SecondContaints/>
-        <ThirdContaint/>
         <ForthContaint/>
         <FiftyComponent/>
         <SixthContaint/>

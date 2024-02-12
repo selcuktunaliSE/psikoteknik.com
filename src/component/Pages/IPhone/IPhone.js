@@ -30,10 +30,10 @@ class IPhone extends Component {
 						<div className="row justify-content-center text-center">
 							<div className="col-12">
 								<div className="title-wraper">
-									iPhones 
+								 Hakkımızda
 								</div>
 								<div className="brief-description">
-									The best for the brightest
+									İncirli Psikoteknik Eğitim Kurumları
 								</div>
 							</div> 
 						</div>
@@ -44,7 +44,7 @@ class IPhone extends Component {
 
 								let order1 = 1;
 								let order2 = 2;
-								if(order != 1)	{
+								if(order !== 1)	{
 									order1 = 2;
 									order2 = 1;
 									order--;
@@ -62,7 +62,8 @@ class IPhone extends Component {
 											{product.Brief}
 										</div>
 										<div className="price-wrapper">
-											{`Starting at ${product.StartPrice}`}
+									
+										  {/*`Starting at ${product.StartPrice}`*/} 
 										</div>
 										<div className="monthly-price">
 											{product.PriceRange}
@@ -70,7 +71,7 @@ class IPhone extends Component {
 										<div className="links-wrapper">
 											<ul>
 												<li>
-													<Link to={productPage}>Learn more
+													<Link to={productPage}> Daha fazla bilgi
 													</Link>
 												</li>
 											</ul> 

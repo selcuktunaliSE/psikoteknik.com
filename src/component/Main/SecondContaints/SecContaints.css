@@ -1,5 +1,5 @@
 .second-hightlight-wrapper {
-	background-image: url("../../../images/home/macbookair-new-sm.jpg");
+	/* background-image: url("../../../images/home/macbookair-new-sm.jpg");*/
 	height: 580px;
 	background-position: bottom;
 	background-repeat: no-repeat;
@@ -13,6 +13,6 @@
 @media (min-width: 768px) {
 .second-hightlight-wrapper {
     min-height: 692px;
-    background-image: url("../../../images/home/macbookair-new.jpg");
+   /* background-image: url("../../../images/home/macbookair-new.jpg");*/
 }
 }

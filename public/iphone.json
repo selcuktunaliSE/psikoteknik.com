@@ -1,34 +1,33 @@
 {
     "products":[
-        {
-          "Id": "iphonese",
-          "img": "https://www.apple.com/v/iphone/home/aj/images/overview/hero/hero_iphone_se__barrz3dlvxea_small_2x.jpg",
-          "Url": "https://www.apple.com/shop/buy-iphone/iphone-11",
-          "Title": "iPhone SE",
-          "Brief": "Lots to love. Less to spend.",
-          "StartPrice": "$399",
-          "PriceRange": "From $9.54/mo. or $229 with trade-in.*",
-          "Description": "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for."
-        },
+      {
+        "Id": "iphone11pro",
+        "img": "/psikoteknik.jpeg",
+        "Url": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+        "Title": "Eğitim",
+        "StartPrice": "Eğitimlerimizde sağladığımız kaliteli hizmet ile öne çıkan firmamız, müşterilerimize sektördeki en iyi eğitimi sunma hedefiyle yoluna devam etmektedir. Uzun yıllara dayanan deneyimimiz ve sektöre hakimiyetimizle, müşterilerimizin beklentilerini karşılamak ve aşmak için sürekli çaba sarf ediyoruz. Ticari amaç güden veya ticari amaç gütmeden taşımacılık yapmak isteyen kuruluşlara ve bireylere sunduğumuz eğitimler arasında SRC belgesi gibi mesleki yeterlilik belgeleri, A, B, D, K gibi çeşitli yetki belgeleri yer almaktadır. Sağladığımız eğitimler, sektör standartlarına tam uyumlu olup, bakanlıkça onaylı ve güvenilir bir şekilde verilmektedir. Müşteri memnuniyeti odaklı yaklaşımımızla, müşterilerimizin belge yenileme işlemlerini takip ederek mağdur olmalarını önlemekteyiz. Güvenli trafik ve sürüş anlayışıyla harmanladığımız eğitimlerimizi sürekli olarak güncelleyerek ve iyileştirerek, müşterilerimize en iyi hizmeti sunma amacımızı sürdürüyoruz. Güleryüzlü personelimiz ve uzman ekibimizle birlikte, sektörde liderliği elden bırakmamak için azimle çalışmaya devam ediyoruz.",
+        "Brief": "Yılların birikimiyle şekillenen tecrübemizle hizmet vermeye devam eden firmamız, çeşitli belge eğitimleri sunmaktadır. Özellikle psikoteknik alanında, sürücülerin fiziksel ve ruhsal uygunluğunu test ederek güvenli sürücü adaylarını belirliyoruz. Aynı zamanda sürücü belgeleri, taşıma belgeleri gibi birçok önemli belgeyi temin etme konusunda uzman ekibimizle birlikte hızlı ve güvenilir bir hizmet sunuyoruz. Müşterilerimize, ticari amaçlı faaliyet göstermek isteyen firmalar veya bireyler için gerekli olan belgeleri en kısa sürede teslim ediyoruz",
+        "Description": ""
+      },
+      
         {
           "Id": "iphone11",
-          "img": "https://www.apple.com/v/iphone/home/aj/images/overview/hero/hero_iphone_11__bsnxu2gpf98i_small_2x.jpg",
+          "img": "/WhatsApp Image 2024-02-09 at 11.24.02.jpeg",
           "Url": "https://www.apple.com/shop/buy-iphone/iphone-11",
-          "Title": "iPhone 11",
-          "Brief": "Lots to love. Less to spend.",
-          "StartPrice": "$449",
-          "PriceRange": "From $18.70/mo. or $449 with trade-in.*",
-          "Description": "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you."
+          "Title": "Tecrübe",
+          "Brief": "Uzun yıllardır bu alanda hizmet veren firmamız, güler yüzlü ve kaliteli hizmet sağlamaktadır. Mesleki yeterlilik pazarında ve sürücü belgesi pazarında yakaladığımız başarı ivmesi sayesinde her geçen gün sektörde öncü olmaya devam ediyoruz. Alanında uzman, özverili, profesyonel, kaliteli çalışanlarımız sayesinde sunduğumuz eşsiz hizmet ile dün de, bugün de, yarın da her zaman sizlerin yanında olmaya devam edeceğiz.",
+          "StartPrice": "Sektörde öncü konumda bulunan firmamızın vizyonu, psikoteknik ve sürücü belgeleri alanında verdiği eğitimleri sürekli iyileştirmek ve kalitesini artırmaktır. Rakiplerimizi her zaman geride bırakmayı ve müşterilerimize en üst düzeyde hizmet sunmayı amaçlıyoruz. Uzun yıllar önce kurulan firmamız, vizyonu gereği çalışmalarına ve çalışanlarına büyük bir önem vermektedir. Eğitimde sürekli gelişmeyi hedefleyen profesyonel ekibimizle birlikte sektörde liderliği sürdürmek için çaba harcıyoruz. Kuruluşumuz, kurulduğu günden itibaren belirlediği vizyondan hiç sapmadı. Geleceği düşünerek hareket ediyor, sürekli olarak kendimizi ve hizmet kalitemizi geliştirmeye odaklanıyoruz. Artan referanslarımızla müşteri portföyümüzü genişletiyor ve uzman kadromuzun liderliğinde gelecekte daha da büyümeyi hedefliyoruz. Vizyonumuz gereği çalışmalarımıza hız kesmeden devam ediyoruz ve Türkiye'nin önde gelen psikoteknik merkezlerinden biri olma hedefine doğru ilerliyoruz. Psikoteknik eğitimlerimiz aracılığıyla trafik kazalarındaki düşüşlere katkıda bulunmak tek arzumuzdur. Ürettiğimiz bilgi ve teknolojileri en etkili şekilde kullanarak müşterilerimize en kaliteli hizmeti sunuyor, bu hizmeti sürekli olarak geliştirmek için çaba sarf ediyoruz.",
+          "Description": ""
         },
         {
-          "Id": "iphone11pro",
-          "img": "https://www.apple.com/v/iphone/home/aj/images/overview/hero/hero_iphone_11_pro__d2lf9zrtcv8m_small_2x.jpg",
-          "Url": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
-          "Title": "iPhone 11 Pro",
-          "Brief": "Pro cameras. Pro display. Pro performance.",
-          "StartPrice": "$679",
-          "PriceRange": "From $28.29/mo. or $679 with trade-in.*",
-          "Description": "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+          "Id": "iphonese",
+          "img": "/environment.jpeg",
+          "Url": "https://www.apple.com/shop/buy-iphone/iphone-11",
+          "Title": "Güven",
+          "Brief": "Bünyemizde verdiğimiz bütün eğitimleri ticari bir amaç gütmeksizin yapıyor ve eğitim konusu olarak görüp yüksek başarı için hiçbir masraftan kaçınmıyoruz. En iyi hizmeti sunmaya her zaman olduğu gibi devam ediyor ve müşterilerimize en iyi fiyat politikası sunarak onlara eğitimi bir yük haline getirmiyoruz.Kaynaklarımızı en iyi ve en ileri teknolojiler ile harmanlayıp sentezleyerek eğitimi her geçen gün geliştiriyor, destekliyor ve başarı oranımızı ciddi oranda yükseltiyoruz. ",
+          "Description": "",
+          "StartPrice": "İncirli Psikoteknik Eğitim Kurumları olarak 2003 yılında kurulduk, uzun yılların getirdiği deneyim ve bilgi ile sizlere hizmet vermeye devam ediyoruz. Kurumumuzda çeşitli belge eğitimleri verilmektedir, özellikle sürücülerin ruhsal ve fiziksel uygunluğunu test eden psikoteknik belgeleri konusunda uzmanlaşmış durumdayız. Firmaların ve bireylerin ticari amaçlı faaliyet göstermek istedikleri alanlarda yetki belgesi alabilmeleri için gereken birçok belge eğitimini sunuyoruz. Ulaştırma ve Haberleşme Bakanlığı ile sürekli iletişim halinde olarak müşterilerimize en hızlı ve etkili hizmeti sunuyoruz. Belgelerin sağlanması sürecinde uzman ekibimizle işbirliği içinde çalışarak, müşterilerimize hızlı bir şekilde teslimat yapıyoruz. Kuruluşumuzun gücü aynı zamanda referanslarımızda da kendini göstermektedir. Kaliteli ve güvenilir eğitim kurumu olma özelliğimizi görmek isterseniz, ana sayfamızdaki referanslar bölümüne göz atabilirsiniz. Güvenli trafik, sağlıklı sürüş keyfi ve kaliteli hizmet için doğru adres İncirli Psikoteknik Eğitim Kurumları. İletişim bilgilerimizi öğrenmek için lütfen ana sayfamızı ziyaret edin."
+          
         }
       ]
   }
