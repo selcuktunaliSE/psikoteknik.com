@@ -1,5 +1,5 @@
 
-# Apple website replica with React  
+# Website for psikoteknik.com
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,15 +8,12 @@
 * [Copyright](#Copyright)
 
 ## General info
-Recreated the live website of www.apple.com starting from the design, all the way to creating React components and deploying the project. This project also includes a section of poplar apple videos that directly access from youtube using API.
-
-<img src="/public/Screenreact.jpg">
+This project is a digital presentation of psikoteknik.com, designed to provide comprehensive information and services related to psychotechnical testing and training. The website has been meticulously crafted to ensure ease of navigation, offering users an intuitive and informative experience. The project showcases a variety of psychotechnical services, including detailed descriptions of the tests, training modules, and a user-friendly interface for appointment bookings.
 
   
   
 ## Technologies
 Project is created with:
-* Apple website replica with React: V1.0.0
 * React
 * HTML-5
 * CSS
@@ -30,5 +27,5 @@ Project is created with:
 To run this project, npm start 
 
 ## Copyright
-**© 2020 
-**By Bisrat Tegegne**
+**© 2024
+**By Selçuk Tunalı**

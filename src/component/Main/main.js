@@ -15,7 +15,6 @@ class Main extends Component {
   render(){
     return (
       <div>
-
         <FirstContaint/>
         <SecondContaints/>
         <ForthContaint/>
